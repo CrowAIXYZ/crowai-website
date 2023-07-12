@@ -97,8 +97,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'LLM Prompt Engineering',
+                to: '/docs/category/llm-prompt-engineering',
               },
             ],
           },
