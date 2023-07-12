@@ -68,8 +68,8 @@ const config = {
       navbar: {
         title: 'CrowAI',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'CrowAI Logo',
+          src: 'img/crowai.png',
         },
         items: [
           {
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           // {
           //   type: 'localeDropdown',
           //   position: 'right',
